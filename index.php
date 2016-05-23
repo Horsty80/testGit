@@ -5,6 +5,7 @@
     echo "juste un include";
     echo "<br />";
     include("test.php");
+    include("menu.php");
     echo "<br />";
     echo "ceci est un echo c'est donc du php";
     echo "<br />";
